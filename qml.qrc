@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/main.qml</file>
+        <file>res/image/pause.png</file>
+        <file>res/image/play.png</file>
+        <file>res/image/volume_high.png</file>
+        <file>res/image/volume_low.png</file>
+        <file>res/image/volume_mute.png</file>
+        <file>res/item/CustomProgressBar.qml</file>
+        <file>res/image/full_screen.png</file>
+        <file>res/image/normal_screen.png</file>
+        <file>res/image/open_file.png</file>
+    </qresource>
+</RCC>

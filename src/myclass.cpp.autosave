@@ -1,0 +1,7 @@
+#include "myclass.h"
+
+MyClass::MyClass(QQmlApplicationEngine *eng, QObject *parent) : QObject(parent)
+{
+	mPtr_eng = eng;
+	mPtr_eng->rootContext()->setContextProperty("", this);
+}
